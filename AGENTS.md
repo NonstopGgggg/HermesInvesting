@@ -20,5 +20,8 @@ Markdown file, filename `YYYY-MM-DD_short-title.md`. Include: task, context, exp
 ## Rule
 Check own inbox at start of session. Archive after processing.
 
+## Usage caution
+Don't run Hermes (interactive or scheduled) and a Claude Code dev session at the same time — concurrent sessions can exceed plan-included usage, triggering pay-per-token "extra usage" overage instead of stopping. Check claude.ai/settings/usage if unexpected billing message appears.
+
 ## Secrets
 Discord webhook URLs live only in `backup.ps1` / `digest.ps1` locally. Never commit. See `.gitignore`.
