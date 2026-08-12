@@ -1,8 +1,10 @@
 # Hermes Nous — Agent Coordination
 
 ## Agents
-- **Hermes**: ops — news check, portfolio digest, Discord posting. Runs locally every 3 days via Windows Task Scheduler + headless `claude -p` (see `digest.ps1`).
-- **Claude Code**: dev — builds tools, scripts, handles deep research on request (this interactive session).
+- **Hermes**: ops — news check, portfolio digest, Discord posting, daily on-demand ops questions. Two entry points:
+  - Scheduled: every 3 days via Windows Task Scheduler + headless `claude -p` (see `digest.ps1`)
+  - Interactive: double-click **Hermes** shortcut on Desktop — opens `claude` in this vault, `CLAUDE.md` here sets ops-only scope
+- **Claude Code**: dev — builds tools, scripts, deep research on request. Runs in coding project folders, not this vault.
 
 ## Vault layout
 - `_Shared/Mailbox/To_Hermes/` — Claude drops tasks here for Hermes
