@@ -1,4 +1,4 @@
-$vault = "D:\Claude Code\HermesNous"
+$vault = "D:\Claude Code\Athena"
 . "$vault\secrets.local.ps1"
 $webhook = $BackupWebhook
 
@@ -13,5 +13,5 @@ if ($changes) {
     $status = "no changes, skipped commit"
 }
 
-$body = @{ content = "Hermes Nous backup: $status" } | ConvertTo-Json
+$body = @{ content = "Athena backup: $status" } | ConvertTo-Json
 Invoke-RestMethod -Uri $webhook -Method Post -Body $body -ContentType "application/json"

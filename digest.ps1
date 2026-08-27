@@ -1,4 +1,4 @@
-$vault = "D:\Claude Code\HermesNous"
+$vault = "D:\Claude Code\Athena"
 . "$vault\secrets.local.ps1"
 $webhook = $DigestWebhook
 
