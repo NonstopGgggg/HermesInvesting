@@ -40,3 +40,10 @@ Not done / open:
 - Holdings: none on file. Watchlist: none on file.
 - Macro: S&P 500 ~7,711 (-0.41%) Mon Sep 28 on US-Iran standoff + oil rise. 10Y yield 5.27% (19-yr high), 30Y 5.55%; October Fed hike odds rising. 1-yr inflation expectations 4.6%. Boeing -6.2% (FAA delays 737 Max 10). Week ahead: PCE (Thu), Sept jobs (Fri), Micron/Nike earnings.
 - Hermes decision: unavailable (no From_Hermes memo this cycle; no positions to decide on).
+
+## 2026-10-08 — Athena Digest
+
+- Mailbox: 0 tasks (To_Athena empty).
+- Holdings: none on file. Watchlist: none on file.
+- Macro: S&P 500 record close 7,818.93 Tue Oct 6 (first closes above 7,800 this week), then pulled back Wed Oct 7 to 7,801.77 (-0.22%); Dow 51,179.87 (-0.66%). 10Y yield hit 5.365% (highest since Apr 2002) before easing after $39B 10Y auction. Oil volatile on US-Iran war / tanker attacks. Sept Fed minutes due; ~20% odds of 25bp October hike.
+- Hermes decision: unavailable (no From_Hermes memo this cycle; no positions to decide on).
